@@ -40,4 +40,4 @@ Inside each of the above reports, a given device id will have 4 visualization pl
 
 ## Scripts
 
-The script speedtest_anomaly_detection_v4.ipynb was initially coded in Jupyter notebook for rapid testing. This was converted to a Python script so that it can be imported as an API for further use by the Internet Equity Initiative's research team anomaly_detection_v1.py .
+The script speedtest_anomaly_detection_v5.ipynb was initially coded in Jupyter notebook for rapid testing. Since this file is too large, it can be made available on request. This was converted to a Python script so that it can be imported as an API for further use by the Internet Equity Initiative's research team anomaly_detection_v1.py inside the code directory.
